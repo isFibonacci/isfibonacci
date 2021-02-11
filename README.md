@@ -1,5 +1,5 @@
 
-<h2> Hey there! Here is not real Fibonacci, just isFibonacci.</h2>
+<h2> Hey there! This is not real Fibonacci, just isFibonacci.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
