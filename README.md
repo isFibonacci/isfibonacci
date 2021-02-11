@@ -4,10 +4,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Minnesota-Twin Cities
+- 💼 &nbsp; Seeking 2021 Summer intern
+- 🌱 &nbsp; Learning more about Web Development, Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
