@@ -1,5 +1,5 @@
 
-<h2> Hey there! This is not real Fibonacci, just isFibonacci.</h2>
+<h2> Hey there!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -51,6 +51,7 @@
 
 <br/>
 
+<!---
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -58,3 +59,4 @@
 <a href="https://www.linkedin.com/in/xingwang-cheng-052499171"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Xingwang%20Cheng%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:isfinbonacci7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-isfibonacci7@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+-->
